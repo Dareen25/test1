@@ -2,6 +2,8 @@
 using namespace std;
 int main() {
     cout << "20231117\n";
+    cout<< "20231117":
+
     return 0;
 }
 // TIP See CLion help at <a
